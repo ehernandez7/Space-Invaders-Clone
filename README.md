@@ -1,2 +1,3 @@
-This project is a recreation of the video game space invaders made with Java and JavaSwing Visuals. 
+Created a functioning clone of the game Space Invaders with Java using the Modelview controller design pattern. Programmed the game using Javaswing in VSCode. Ran, compiled, and tested the program with Gradle. Created the GUI and main functions of player tank shooting and moving and implemented music and sound effects. The game is played by first selecting one of two difficulties on the main menu screen, then by shooting and evading aliens, who strafe left and right at an increasing speed upon the completion of each level. The game is lost if the aliens reach the player’s ship or hit the player more than 3 times.
+
 This project was completed in a team of three within Object Oriented Programing Course in Saint Louis University
